@@ -100,8 +100,8 @@ My goal is to secure an internship in:
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Add your link)
-- Email: (Add your email)
+- LinkedIn: https://www.linkedin.com/in/sirjan-khadka-5349b7384/
+- Email: Sirjankhadka25@gmail.com
 
 ---
 
