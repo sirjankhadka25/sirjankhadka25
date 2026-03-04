@@ -1,64 +1,108 @@
-# Hi, I'm Sirjan Khadka 👋
+<h1 align="center">Hi, I'm Sirjan Khadka 👋</h1>
 
-🎓 Computer Science Student at Caldwell University  
-📊 Aspiring Machine Learning & Data Analytics Professional  
-💻 Skilled in Python, SQL, Power BI  
+<p align="center">
+🎓 Computer Science Student | Caldwell University <br>
+📊 Data Analytics & Machine Learning Enthusiast <br>
+💻 Python • SQL • Power BI • Excel
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I am a data-driven problem solver focused on building intelligent systems using:
+I am a Computer Science student at Caldwell University with a strong focus on:
 
-- Python (Data Analysis, Machine Learning)
-- SQL (Database Design & Query Optimization)
-- Power BI (Interactive Dashboards & Business Intelligence)
-- Statistical Analysis
-- Financial & Market Data Research
+- Data Analytics
+- Machine Learning
+- Financial Data Research
+- Business Intelligence Systems
 
-Currently working on:
-- 📈 News Sentiment Analysis on SPY
-- 🌦 Weather Pattern Prediction using Machine Learning
-- 📊 SQL + Power BI Data Analytics Projects
+I enjoy transforming raw data into meaningful insights using structured databases, statistical modeling, and interactive dashboards.
 
 ---
 
 ## 🛠 Technical Skills
 
-**Languages**
-- Python
-- SQL
+### 🧑‍💻 Programming & Query Languages
 
-**Data Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+- Python  
+- SQL (PostgreSQL, MySQL)
+
+---
+
+### 📊 Data & Visualization Tools
+
+<p>
+  <img src="https://img.icons8.com/color/48/power-bi.png"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+</p>
+
+- Power BI (Interactive Dashboards & Business Reporting)  
+- Microsoft Excel (Advanced formulas, Pivot Tables, Data Cleaning)  
+
+---
+
+### 📚 Python Libraries
+
 - Pandas
 - NumPy
 - Scikit-Learn
-- Power BI
-- Matplotlib / Seaborn
-
-**Database**
-- PostgreSQL
-- MySQL
+- Matplotlib
+- Seaborn
 
 ---
 
 ## 📂 Featured Projects
 
-### 1️⃣ SPY News Sentiment Analysis
-Analyzing the impact of public news sentiment on stock market returns and volatility.
+### 📈 SPY News Sentiment Analysis
+Machine learning research project analyzing the impact of news sentiment on SPY returns and volatility.
 
-Tech Used:
-- Python (NLP, ML models)
-- SQL (Data storage)
-- Power BI (Visualization Dashboard)
+**Tech Used:**  
+Python • SQL • Power BI
 
 ---
 
-### 2️⃣ Weather Pattern Prediction
-Machine learning project predicting temperature and weather patterns using historical data.
+### 🌦 Weather Pattern Prediction
+Predictive modeling of weather data using machine learning algorithms and statistical analysis.
+
+**Tech Used:**  
+Python • SQL • Data Visualization
+
+---
+
+### 📊 Data Analytics Dashboards
+Interactive business dashboards built in Power BI integrating SQL databases.
+
+---
+
+## 🎯 Career Goals
+
+I am currently building projects that integrate:
+
+- End-to-end data pipelines
+- Machine learning models
+- SQL-backed databases
+- Business Intelligence dashboards
+
+My goal is to secure an internship in:
+
+- Data Analytics
+- Machine Learning Engineering
+- Financial Data Analysis
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [https://www.linkedin.com/in/sirjan-khadka-5349b7384/]
-- Email: [SirjanKhadka25@gmail.com]
+
+- LinkedIn: (Add your link)
+- Email: (Add your email)
+
+---
+
+⭐ Always learning. Always building.
